@@ -1,7 +1,7 @@
 ## The AWX Project
 
 #### What is The AWX?
-AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+- AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 AWX is an open source project maintained by the community and Red Hat. It offers a graphical interface for managing ansibles projects.
 
 #### Architecture AWX
@@ -14,12 +14,14 @@ AWX is an open source project maintained by the community and Red Hat. It offers
 
 #### Host Inventory
 ![inventory](https://github.com/EzzioMoreira/challenge_devops/blob/main/awx/img/inventory.JPG)
-Ansible is designed to work with multiple environments (Dev, QA, UAT, Prod, etc.) at the same time. It uses an inventory file that contains a group of hosts and their variables.
-File default the Ansible is saved in /etc/ansible/hosts.
+
+- Ansible is designed to work with multiple environments (Dev, QA, UAT, Prod, etc.) at the same time. It uses an inventory file that contains a group of hosts and their variables.
+- File default the Ansible is saved in /etc/ansible/hosts.
 
 #### Playbook
 ![playbook](https://github.com/EzzioMoreira/challenge_devops/blob/main/awx/img/playbook.JPG)
-A playbook is a file where the user describes the tasks that will be performed on a host or group of hosts. Basically the ‘tasks’ calls the Ansible modules to get the desired configuration.
+- A playbook is a file where the user describes the tasks that will be performed on a host or group of hosts. Basically the ‘tasks’ calls the 
+- Ansible modules to get the desired configuration.
 
 #### Best practices:
 - Access to AWX web interface can be separated by teams (Dev, QA, UAT, Prod)..
