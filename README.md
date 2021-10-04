@@ -81,7 +81,7 @@ rds_username = "databaseteste"
 ```
 
 #### 5. And after running awx projects accessing websites:
-- [Home](ec2-54-67-82-124.us-west-1.compute.amazonaws.com)
-- [PHP](ec2-54-67-82-124.us-west-1.compute.amazonaws.com/php)
-- [Apache](ec2-54-67-82-124.us-west-1.compute.amazonaws.com/apache)
-- [Wordpress](ec2-54-67-82-124.us-west-1.compute.amazonaws.com/wordpress)
+- ec2-54-215-226-216.us-west-1.compute.amazonaws.com
+- ec2-54-215-226-216.us-west-1.compute.amazonaws.com/php)
+- ec2-54-215-226-216.us-west-1.compute.amazonaws.com/apache)
+- ec2-54-215-226-216.us-west-1.compute.amazonaws.com/wordpress)
