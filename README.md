@@ -1,4 +1,5 @@
 ## DevOps Challenge
+![App-Rapadura](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/proxy.JPG)
 #### Clone the Repositories used in this project
 - [AWX](https://github.com/EzzioMoreira/awx.git)
 - [Packer for AMI AWX](https://github.com/EzzioMoreira/packer-rapadura-awx.git)
