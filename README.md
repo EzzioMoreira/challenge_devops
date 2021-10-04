@@ -1,6 +1,5 @@
 ## DevOps Challenge
 ![Diagram](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/newdiagram.JPG)
-![App-Rapadura](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/proxy.JPG)
 #### Clone the Repositories used in this project
 - [AWX](https://github.com/EzzioMoreira/awx.git)
 - [Packer for AMI AWX](https://github.com/EzzioMoreira/packer-rapadura-awx.git)
@@ -85,3 +84,4 @@ rds_username = "databaseteste"
 - ec2-54-215-226-216.us-west-1.compute.amazonaws.com/php)
 - ec2-54-215-226-216.us-west-1.compute.amazonaws.com/apache)
 - ec2-54-215-226-216.us-west-1.compute.amazonaws.com/wordpress)
+![App-Rapadura](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/proxy.JPG)
