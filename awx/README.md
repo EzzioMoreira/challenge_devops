@@ -33,7 +33,7 @@ AWX is an open source project maintained by the community and Red Hat. It offers
 - After executing a JOB in MODELS, it is recommended to trigger a NOTIFICATION to the responsible team and/or other teams.
 
 #### References
-[Tower docs site](http://docs.ansible.com/ansible-tower/index.html)
-[Guidelines](https://github.com/ansible/awx-logos/blob/master/TRADEMARKS.md)
-[Question AWX](https://www.ansible.com/awx-project-faq)
-[What is Ansible](http://ansible-br.org/por-que-ansible/)
+- [Tower docs site](http://docs.ansible.com/ansible-tower/index.html)
+- [Guidelines](https://github.com/ansible/awx-logos/blob/master/TRADEMARKS.md)
+- [Question AWX](https://www.ansible.com/awx-project-faq)
+- [What is Ansible](http://ansible-br.org/por-que-ansible/)
