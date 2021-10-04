@@ -1,5 +1,5 @@
 ## DevOps Challenge
-![Diagram](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/diagram.JPG)
+![Diagram](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/newdiagram.JPG)
 ![App-Rapadura](https://github.com/EzzioMoreira/challenge_devops/blob/main/img/proxy.JPG)
 #### Clone the Repositories used in this project
 - [AWX](https://github.com/EzzioMoreira/awx.git)
