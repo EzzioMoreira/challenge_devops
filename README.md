@@ -53,7 +53,7 @@ make terraform-destroy
 # Access AWX:
 awx-rapadura-public_dns: "ec2-54-67-82-124.us-west-1.compute.amazonaws.com"
 User: admin
-Password: rapadura
+Password: password
 # we need output private ip the step "2. Create EC2 for web application" for AWX projects!
 rapadura-private_ip = "10.10.0.46"
 ```
